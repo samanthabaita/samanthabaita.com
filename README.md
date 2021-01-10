@@ -1,5 +1,10 @@
 # www.samanthabaita.com
 
+## Website made with
+
+- [NuxtJS](https://nuxtjs.org) (with typescript, Vue property decorators)
+- [TailwindCSS](https://tailwindcss.com/)
+
 ## Build Setup
 
 ```bash
@@ -18,3 +23,7 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Deploy
+
+This website is deployed on [Vercel](https://vercel.com) with the GitHub Integration
