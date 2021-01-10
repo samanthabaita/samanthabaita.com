@@ -2,7 +2,7 @@
 
 ## Website made with
 
-- [NuxtJS](https://nuxtjs.org) (with typescript, Vue property decorators)
+- [NuxtJS](https://nuxtjs.org) (with typescript and Vue property decorators)
 - [TailwindCSS](https://tailwindcss.com/)
 
 ## Build Setup
