@@ -1,5 +1,10 @@
 <template>
   <div class="bg-gray-900 text-white">
+    <div class="container mx-auto bg-white px-2">
+      <div class="flex items-center justify-start">
+        <p>👀 A Revas stiamo assumendo! <a href="https://www.revas.io">Scopri di più</a></p>
+      </div>
+    </div>
     <nuxt />
   </div>
 </template>
