@@ -12,9 +12,8 @@
               <span class="text-xs font-bold uppercase">Work</span>
             </div>
             <div>
-              <span class="text-base">Currently working at
-                <a class="underline" href="https://www.revas.io">Revas Società Benefit</a> a company I co-founded in 2018</span
-              >
+              <span class="text-base">I'm a partner of
+                <a class="underline" href="https://www.revas.io">Revas Società Benefit</a>, where I mainly deal with software development and design.</span>
             </div>
           </div>
 
