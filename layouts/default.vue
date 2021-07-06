@@ -1,10 +1,5 @@
 <template>
-  <div class="bg-gray-900 text-white">
-    <div class="container mx-auto rounded bg-gray-200 p-2">
-      <div class="flex items-center justify-start">
-        <p class="text-black">👀 A Revas stiamo assumendo! <a href="https://www.revas.io">Scopri di più</a></p>
-      </div>
-    </div>
+  <div class="bg-black text-white">
     <nuxt />
   </div>
 </template>
