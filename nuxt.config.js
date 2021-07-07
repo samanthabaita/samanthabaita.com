@@ -11,6 +11,10 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
 
+  env: {
+    BASE_URL: process.env.BASE_URL || 'https://www.samanthabaita.com',
+  },
+
   // Global CSS (https://go.nuxtjs.dev/config-css)
   css: [],
 
