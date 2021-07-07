@@ -13,7 +13,7 @@
         <div class="flex flex-col justify-center">
           
           <div class="mb-12">
-            <span class="text-4xl md:text-6xl">Hello, I'm Samantha Baita 👋</span>
+            <h1 class="text-4xl md:text-6xl">Hello, I'm Samantha Baita 👋</h1>
           </div>
 
           <div class="mb-10">
