@@ -17,7 +17,7 @@
           </div>
 
           <div class="mb-10">
-            <div class="w-1/2 bg-gray-700 rounded p-4">
+            <div class="md:w-1/2 bg-gray-700 rounded p-4">
               <div class="mb-6">
                 <span class="text-xs font-bold uppercase">Work</span>
               </div>
@@ -33,7 +33,7 @@
           </div>
 
           <div class="mb-10">
-            <div class="w-1/2 bg-gray-800 rounded p-4">
+            <div class="md:w-1/2 bg-gray-800 rounded p-4">
               <div class="mb-6">
                 <span class="text-xs font-bold uppercase">Contacts</span>
               </div>
@@ -132,7 +132,7 @@
             </div>
           </div>
 
-          <div class="w-1/2 bg-gray-900 rounded  p-4">
+          <div class="md:w-1/2 bg-gray-900 rounded  p-4">
             <div>
               <div class="mb-6">
                 <span class="text-xs font-bold uppercase">Hobbies</span>
